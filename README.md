@@ -4,7 +4,7 @@ this contains all of my collect open sourece from many platforms
 
 GestureLock-master 一个手势密码demo 已经商业在用，有需求的可以直接改造用
 
-321Media3.2 InitActivity
+321Media3.2项目 InitActivity为vitamio第三方框架
 项目介绍：
 本项目由杨光福老师 即www.itlanbao.comIT蓝豹创始人开发的app.
 阿福老师在2012年业余时间写的播放器，当时还荣获最佳应用奖微博http://t.qq.com/yangguangfu
